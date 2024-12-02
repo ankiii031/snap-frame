@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "66a88f03ec52a57feb6e46b4"
+  },
+  "name": "Developer",
+  "password": "$2b$10$9vqzRxG8PuONOx23fMNhMeLrs2Ddjss2pc6jeme9H39qWGFfAwAoC",
+  "email": "developer@gmail.com",
+  "address": "mangalore",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1722322691227"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1722322691227"
+    }
+  },
+  "__v": 0,
+  "ph_no": "93939393999"
+}]

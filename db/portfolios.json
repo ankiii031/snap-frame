@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "66a98705410310a8806510c7"
+  },
+  "title": "Premium Wedding",
+  "description": "We Arranged VIP section including all the arrangements",
+  "place": "Bangalore",
+  "event_date": {
+    "$date": {
+      "$numberLong": "1720656000000"
+    }
+  },
+  "image": [
+    "1722386180773-jeremy-wong-weddings-K41SGnGKxVk-unsplash.jpg",
+    "1722386180932-thomas-william-nAvodiKjbTM-unsplash.jpg",
+    "1722386181070-alexandr-istomin-7qF7PrbOLPE-unsplash.jpg",
+    "1722386181208-navis-pebin-4PCcQXHMCQ4-unsplash.jpg"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1722386181291"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1722386181291"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66a98729410310a8806510dc"
+  },
+  "title": "Mehendi day",
+  "description": "All the Mehendi Arrangements",
+  "place": "Kasargod",
+  "event_date": {
+    "$date": {
+      "$numberLong": "1719964800000"
+    }
+  },
+  "image": [
+    "1722390288279-vitaliy-lyubezhanin-gfVofr15ICc-unsplash.jpg",
+    "1722390288471-nijwam-swargiary-2Kdh80yEF84-unsplash.jpg"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1722386217509"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1722390300286"
+    }
+  },
+  "__v": 0
+}]

@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "66a690eac2300fb3f7017a57"
+  },
+  "title": "Wedding",
+  "image": "1722391030013-jeremy-wong-weddings-K41SGnGKxVk-unsplash.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1722192106763"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1722391030202"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66a690f7c2300fb3f7017a5e"
+  },
+  "title": "Mehendi",
+  "image": "1722391042224-nijwam-swargiary-2Kdh80yEF84-unsplash.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1722192119286"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1722391042336"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66a691b0c2300fb3f7017a6f"
+  },
+  "title": "Birthday",
+  "image": "1722391050779-lucas-law-MTFqQH1trsA-unsplash.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1722192304389"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1722391050853"
+    }
+  },
+  "__v": 0
+}]

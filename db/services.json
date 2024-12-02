@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "66a6950bc2300fb3f7017aaf"
+  },
+  "category": {
+    "$oid": "66a691b0c2300fb3f7017a6f"
+  },
+  "sname": "Premium Birthday",
+  "image": "1722302060995-i5.jpg",
+  "description": "Includes photos and videos with album of 50pages.",
+  "price": 73888,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1722193163127"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1722302061145"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66a6979bc2300fb3f7017ac2"
+  },
+  "category": {
+    "$oid": "66a690eac2300fb3f7017a57"
+  },
+  "sname": "Golden Wedding",
+  "image": "1722302146521-i1.jpg",
+  "description": "All arrangements with stage and marriage films.",
+  "price": 3999,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1722193819741"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1722303375195"
+    }
+  },
+  "__v": 0
+}]
